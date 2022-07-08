@@ -80,7 +80,7 @@ Partial Class frmSave
         Me.cmbProfile.FormattingEnabled = True
         Me.cmbProfile.Location = New System.Drawing.Point(59, 12)
         Me.cmbProfile.Name = "cmbProfile"
-        Me.cmbProfile.Size = New System.Drawing.Size(248, 23)
+        Me.cmbProfile.Size = New System.Drawing.Size(316, 23)
         Me.cmbProfile.TabIndex = 1
         '
         'GroupBox1
@@ -99,7 +99,7 @@ Partial Class frmSave
         Me.GroupBox1.Enabled = False
         Me.GroupBox1.Location = New System.Drawing.Point(12, 56)
         Me.GroupBox1.Name = "GroupBox1"
-        Me.GroupBox1.Size = New System.Drawing.Size(295, 233)
+        Me.GroupBox1.Size = New System.Drawing.Size(363, 361)
         Me.GroupBox1.TabIndex = 2
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Save Game"
@@ -112,7 +112,7 @@ Partial Class frmSave
         Me.GroupBox2.Controls.Add(Me.flpBarn)
         Me.GroupBox2.Location = New System.Drawing.Point(6, 109)
         Me.GroupBox2.Name = "GroupBox2"
-        Me.GroupBox2.Size = New System.Drawing.Size(283, 86)
+        Me.GroupBox2.Size = New System.Drawing.Size(351, 214)
         Me.GroupBox2.TabIndex = 3
         Me.GroupBox2.TabStop = False
         Me.GroupBox2.Text = "Barns"
@@ -143,7 +143,7 @@ Partial Class frmSave
         Me.flpBarn.Dock = System.Windows.Forms.DockStyle.Fill
         Me.flpBarn.Location = New System.Drawing.Point(3, 19)
         Me.flpBarn.Name = "flpBarn"
-        Me.flpBarn.Size = New System.Drawing.Size(277, 64)
+        Me.flpBarn.Size = New System.Drawing.Size(345, 192)
         Me.flpBarn.TabIndex = 11
         '
         'cbBarn1
@@ -237,7 +237,7 @@ Partial Class frmSave
         'cbBarn9
         '
         Me.cbBarn9.AutoSize = True
-        Me.cbBarn9.Location = New System.Drawing.Point(1, 22)
+        Me.cbBarn9.Location = New System.Drawing.Point(273, 1)
         Me.cbBarn9.Margin = New System.Windows.Forms.Padding(1)
         Me.cbBarn9.Name = "cbBarn9"
         Me.cbBarn9.Size = New System.Drawing.Size(32, 19)
@@ -248,7 +248,7 @@ Partial Class frmSave
         'cbBarn10
         '
         Me.cbBarn10.AutoSize = True
-        Me.cbBarn10.Location = New System.Drawing.Point(35, 22)
+        Me.cbBarn10.Location = New System.Drawing.Point(1, 22)
         Me.cbBarn10.Margin = New System.Windows.Forms.Padding(1)
         Me.cbBarn10.Name = "cbBarn10"
         Me.cbBarn10.Size = New System.Drawing.Size(38, 19)
@@ -259,7 +259,7 @@ Partial Class frmSave
         'cbBarn11
         '
         Me.cbBarn11.AutoSize = True
-        Me.cbBarn11.Location = New System.Drawing.Point(75, 22)
+        Me.cbBarn11.Location = New System.Drawing.Point(41, 22)
         Me.cbBarn11.Margin = New System.Windows.Forms.Padding(1)
         Me.cbBarn11.Name = "cbBarn11"
         Me.cbBarn11.Size = New System.Drawing.Size(38, 19)
@@ -270,7 +270,7 @@ Partial Class frmSave
         'cbBarn12
         '
         Me.cbBarn12.AutoSize = True
-        Me.cbBarn12.Location = New System.Drawing.Point(115, 22)
+        Me.cbBarn12.Location = New System.Drawing.Point(81, 22)
         Me.cbBarn12.Margin = New System.Windows.Forms.Padding(1)
         Me.cbBarn12.Name = "cbBarn12"
         Me.cbBarn12.Size = New System.Drawing.Size(38, 19)
@@ -281,7 +281,7 @@ Partial Class frmSave
         'cbBarn13
         '
         Me.cbBarn13.AutoSize = True
-        Me.cbBarn13.Location = New System.Drawing.Point(155, 22)
+        Me.cbBarn13.Location = New System.Drawing.Point(121, 22)
         Me.cbBarn13.Margin = New System.Windows.Forms.Padding(1)
         Me.cbBarn13.Name = "cbBarn13"
         Me.cbBarn13.Size = New System.Drawing.Size(38, 19)
@@ -292,7 +292,7 @@ Partial Class frmSave
         'cbBarn14
         '
         Me.cbBarn14.AutoSize = True
-        Me.cbBarn14.Location = New System.Drawing.Point(195, 22)
+        Me.cbBarn14.Location = New System.Drawing.Point(161, 22)
         Me.cbBarn14.Margin = New System.Windows.Forms.Padding(1)
         Me.cbBarn14.Name = "cbBarn14"
         Me.cbBarn14.Size = New System.Drawing.Size(38, 19)
@@ -303,7 +303,7 @@ Partial Class frmSave
         'cbBarn15
         '
         Me.cbBarn15.AutoSize = True
-        Me.cbBarn15.Location = New System.Drawing.Point(235, 22)
+        Me.cbBarn15.Location = New System.Drawing.Point(201, 22)
         Me.cbBarn15.Margin = New System.Windows.Forms.Padding(1)
         Me.cbBarn15.Name = "cbBarn15"
         Me.cbBarn15.Size = New System.Drawing.Size(38, 19)
@@ -314,7 +314,7 @@ Partial Class frmSave
         'cbBarn16
         '
         Me.cbBarn16.AutoSize = True
-        Me.cbBarn16.Location = New System.Drawing.Point(1, 43)
+        Me.cbBarn16.Location = New System.Drawing.Point(241, 22)
         Me.cbBarn16.Margin = New System.Windows.Forms.Padding(1)
         Me.cbBarn16.Name = "cbBarn16"
         Me.cbBarn16.Size = New System.Drawing.Size(38, 19)
@@ -325,7 +325,7 @@ Partial Class frmSave
         'cbBarn17
         '
         Me.cbBarn17.AutoSize = True
-        Me.cbBarn17.Location = New System.Drawing.Point(41, 43)
+        Me.cbBarn17.Location = New System.Drawing.Point(281, 22)
         Me.cbBarn17.Margin = New System.Windows.Forms.Padding(1)
         Me.cbBarn17.Name = "cbBarn17"
         Me.cbBarn17.Size = New System.Drawing.Size(38, 19)
@@ -336,7 +336,7 @@ Partial Class frmSave
         'cbBarn18
         '
         Me.cbBarn18.AutoSize = True
-        Me.cbBarn18.Location = New System.Drawing.Point(81, 43)
+        Me.cbBarn18.Location = New System.Drawing.Point(1, 43)
         Me.cbBarn18.Margin = New System.Windows.Forms.Padding(1)
         Me.cbBarn18.Name = "cbBarn18"
         Me.cbBarn18.Size = New System.Drawing.Size(38, 19)
@@ -347,7 +347,7 @@ Partial Class frmSave
         'cbBarn19
         '
         Me.cbBarn19.AutoSize = True
-        Me.cbBarn19.Location = New System.Drawing.Point(121, 43)
+        Me.cbBarn19.Location = New System.Drawing.Point(41, 43)
         Me.cbBarn19.Margin = New System.Windows.Forms.Padding(1)
         Me.cbBarn19.Name = "cbBarn19"
         Me.cbBarn19.Size = New System.Drawing.Size(38, 19)
@@ -358,7 +358,7 @@ Partial Class frmSave
         'cbBarn20
         '
         Me.cbBarn20.AutoSize = True
-        Me.cbBarn20.Location = New System.Drawing.Point(161, 43)
+        Me.cbBarn20.Location = New System.Drawing.Point(81, 43)
         Me.cbBarn20.Margin = New System.Windows.Forms.Padding(1)
         Me.cbBarn20.Name = "cbBarn20"
         Me.cbBarn20.Size = New System.Drawing.Size(38, 19)
@@ -369,7 +369,7 @@ Partial Class frmSave
         'cbBarn21
         '
         Me.cbBarn21.AutoSize = True
-        Me.cbBarn21.Location = New System.Drawing.Point(201, 43)
+        Me.cbBarn21.Location = New System.Drawing.Point(121, 43)
         Me.cbBarn21.Margin = New System.Windows.Forms.Padding(1)
         Me.cbBarn21.Name = "cbBarn21"
         Me.cbBarn21.Size = New System.Drawing.Size(38, 19)
@@ -381,7 +381,7 @@ Partial Class frmSave
         '
         Me.btnSave.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.btnSave.Enabled = False
-        Me.btnSave.Location = New System.Drawing.Point(179, 201)
+        Me.btnSave.Location = New System.Drawing.Point(247, 329)
         Me.btnSave.Name = "btnSave"
         Me.btnSave.Size = New System.Drawing.Size(110, 26)
         Me.btnSave.TabIndex = 10
@@ -391,7 +391,7 @@ Partial Class frmSave
         'txtLevel
         '
         Me.txtLevel.Anchor = System.Windows.Forms.AnchorStyles.Top
-        Me.txtLevel.Location = New System.Drawing.Point(94, 80)
+        Me.txtLevel.Location = New System.Drawing.Point(128, 80)
         Me.txtLevel.Name = "txtLevel"
         Me.txtLevel.Size = New System.Drawing.Size(91, 23)
         Me.txtLevel.TabIndex = 2
@@ -400,7 +400,7 @@ Partial Class frmSave
         '
         Me.Label4.Anchor = System.Windows.Forms.AnchorStyles.Top
         Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(44, 83)
+        Me.Label4.Location = New System.Drawing.Point(78, 83)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(34, 15)
         Me.Label4.TabIndex = 5
@@ -409,7 +409,7 @@ Partial Class frmSave
         'txtXP
         '
         Me.txtXP.Anchor = System.Windows.Forms.AnchorStyles.Top
-        Me.txtXP.Location = New System.Drawing.Point(94, 51)
+        Me.txtXP.Location = New System.Drawing.Point(128, 51)
         Me.txtXP.Name = "txtXP"
         Me.txtXP.Size = New System.Drawing.Size(91, 23)
         Me.txtXP.TabIndex = 1
@@ -418,7 +418,7 @@ Partial Class frmSave
         '
         Me.Label3.Anchor = System.Windows.Forms.AnchorStyles.Top
         Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(44, 54)
+        Me.Label3.Location = New System.Drawing.Point(78, 54)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(21, 15)
         Me.Label3.TabIndex = 3
@@ -427,7 +427,7 @@ Partial Class frmSave
         'txtMoney
         '
         Me.txtMoney.Anchor = System.Windows.Forms.AnchorStyles.Top
-        Me.txtMoney.Location = New System.Drawing.Point(94, 22)
+        Me.txtMoney.Location = New System.Drawing.Point(128, 22)
         Me.txtMoney.Name = "txtMoney"
         Me.txtMoney.Size = New System.Drawing.Size(150, 23)
         Me.txtMoney.TabIndex = 0
@@ -436,7 +436,7 @@ Partial Class frmSave
         '
         Me.Label2.Anchor = System.Windows.Forms.AnchorStyles.Top
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(44, 25)
+        Me.Label2.Location = New System.Drawing.Point(78, 25)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(44, 15)
         Me.Label2.TabIndex = 1
@@ -455,7 +455,7 @@ Partial Class frmSave
         '
         Me.lblCopyright.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
         Me.lblCopyright.AutoSize = True
-        Me.lblCopyright.Location = New System.Drawing.Point(12, 292)
+        Me.lblCopyright.Location = New System.Drawing.Point(12, 420)
         Me.lblCopyright.Name = "lblCopyright"
         Me.lblCopyright.Size = New System.Drawing.Size(60, 15)
         Me.lblCopyright.TabIndex = 4
@@ -465,7 +465,7 @@ Partial Class frmSave
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(319, 316)
+        Me.ClientSize = New System.Drawing.Size(387, 444)
         Me.Controls.Add(Me.lblCopyright)
         Me.Controls.Add(Me.lblLastSave)
         Me.Controls.Add(Me.GroupBox1)

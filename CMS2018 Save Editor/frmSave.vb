@@ -19,6 +19,7 @@ Public Class frmSave
 
     Private Sub LoadProfiles()
         Dim di As New DirectoryInfo(SaveGameDir)
+
         For Each folder In di.GetDirectories()
             Select Case folder.ToString
                 Case "Unity", "Crashes"
